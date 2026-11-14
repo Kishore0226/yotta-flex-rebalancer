@@ -1,0 +1,22 @@
+# Python environments and generated caches
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Local configuration and secrets
+.env
+.streamlit/secrets.toml
+
+# Generated databases, backups, exports, and working files
+data/*.db
+data/backups/
+data/exports/
+work/
+
+# Editor and operating-system files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

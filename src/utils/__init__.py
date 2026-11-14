@@ -1,0 +1,1 @@
+"""Shared small utility functions."""
